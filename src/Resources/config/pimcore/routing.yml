@@ -1,0 +1,3 @@
+image_alt_generator_homepage:
+    path:     /image_alt_generator
+    defaults: { _controller: ImageAltGeneratorBundle\Controller\DefaultController:indexAction }
